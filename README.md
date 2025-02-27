@@ -1,7 +1,7 @@
 # Projeto WordPress - Revenda de Veículos Elétricos
 
 ## Visão Geral
-Este projeto consiste na criação de um site para uma revenda de veículos elétricos, desenvolvido em WordPress. O projeto incluirá um **tema customizado** e um **plugin** para gerenciamento de veículos. Desenvolvedores juniores irão implementá-lo com a orientação de um mentor.
+Este projeto consiste na criação de um site para uma revenda de veículos elétricos, desenvolvido em WordPress. O projeto incluirá um **tema customizado** e um **plugin** para gerenciamento de veículos.
 
 ---
 
